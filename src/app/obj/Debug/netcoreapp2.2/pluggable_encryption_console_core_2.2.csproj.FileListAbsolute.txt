@@ -1,0 +1,11 @@
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\bin\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.deps.json
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\bin\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.runtimeconfig.json
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\bin\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.runtimeconfig.dev.json
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\bin\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.dll
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\bin\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.pdb
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.csprojAssemblyReference.cache
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.csproj.CoreCompileInputs.cache
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.AssemblyInfoInputs.cache
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.AssemblyInfo.cs
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.dll
+H:\Projects\github\pluggable_encryption_console_core_2.2\src\app\obj\Debug\netcoreapp2.2\pluggable_encryption_console_core_2.2.pdb
